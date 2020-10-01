@@ -1,6 +1,6 @@
 # VRP
 
-In the csv file, you find the current version of all waypoints in the corresponding area.
+In the csv file, you find the current version of all waypoints (visual report points - vrp) in the corresponding area.
 
 | country | filename | credits|
 |-----|----|---|
